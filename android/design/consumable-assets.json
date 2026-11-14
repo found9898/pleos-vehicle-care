@@ -1,0 +1,50 @@
+[
+  {
+    "part": "wiper",
+    "path": "app/src/main/res/drawable-nodpi/consumable_wiper.png",
+    "method": "built-in image_gen",
+    "subject": "a pair of modern automotive windshield wiper blades, slightly curved black rubber with precision graphite metal frames, arranged diagonally and parallel, clear recognizable complete wiper blades",
+    "art_direction": "Realistic studio product cutout; silver/charcoal/ivory; elevated three-quarter front angle; transparent background; no labels, logos, UI or circle. Used in native schedule rings.",
+    "prompt": "Use case: product-mockup. Asset type: individual 3D vehicle consumable cutout for a premium automotive interface, displayed in a circular status ring. Subject: a pair of modern automotive windshield wiper blades, slightly curved black rubber with precision graphite metal frames, arranged diagonally and parallel, clear recognizable complete wiper blades. Art direction: premium realistic studio product render, precise industrial materials, soft diffuse lighting from upper left, subtle contact shadow, restrained silver/charcoal/ivory palette, consistent camera at elevated three-quarter front angle. A single coherent arrangement centered on a square canvas, object fills 75-82% of the square, generous enough transparent margin that nothing is cropped. Actual transparent background. No circle, no badge, no UI, no background panel, no captions, no text, no logos, no watermark. Crisp, easily recognizable silhouette at 130px. Do not add vehicle body, people, hands, decorative particles or unnecessary objects."
+  },
+  {
+    "part": "oil",
+    "path": "app/src/main/res/drawable-nodpi/consumable_oil.png",
+    "method": "built-in image_gen",
+    "subject": "an automotive engine oil refill bottle in matte graphite with a muted amber cap, alongside a small silver cylindrical engine oil filter with visible machined metal ridges; no label or text on the bottle",
+    "art_direction": "Realistic studio product cutout; silver/charcoal/ivory; elevated three-quarter front angle; transparent background; no labels, logos, UI or circle. Used in native schedule rings.",
+    "prompt": "Use case: product-mockup. Asset type: individual 3D vehicle consumable cutout for a premium automotive interface, displayed in a circular status ring. Subject: an automotive engine oil refill bottle in matte graphite with a muted amber cap, alongside a small silver cylindrical engine oil filter with visible machined metal ridges; no label or text on the bottle. Art direction: premium realistic studio product render, precise industrial materials, soft diffuse lighting from upper left, subtle contact shadow, restrained silver/charcoal/ivory palette, consistent camera at elevated three-quarter front angle. A single coherent arrangement centered on a square canvas, object fills 75-82% of the square, generous enough transparent margin that nothing is cropped. Actual transparent background. No circle, no badge, no UI, no background panel, no captions, no text, no logos, no watermark. Crisp, easily recognizable silhouette at 130px. Do not add vehicle body, people, hands, decorative particles or unnecessary objects."
+  },
+  {
+    "part": "brake",
+    "path": "app/src/main/res/drawable-nodpi/consumable_brake.png",
+    "method": "built-in image_gen",
+    "subject": "one automotive ventilated silver steel brake rotor disc at three-quarter angle with a deep charcoal brake caliper and two graphite brake pads, visible precision grooves and realistic machined metal",
+    "art_direction": "Realistic studio product cutout; silver/charcoal/ivory; elevated three-quarter front angle; transparent background; no labels, logos, UI or circle. Used in native schedule rings.",
+    "prompt": "Use case: product-mockup. Asset type: individual 3D vehicle consumable cutout for a premium automotive interface, displayed in a circular status ring. Subject: one automotive ventilated silver steel brake rotor disc at three-quarter angle with a deep charcoal brake caliper and two graphite brake pads, visible precision grooves and realistic machined metal. Art direction: premium realistic studio product render, precise industrial materials, soft diffuse lighting from upper left, subtle contact shadow, restrained silver/charcoal/ivory palette, consistent camera at elevated three-quarter front angle. A single coherent arrangement centered on a square canvas, object fills 75-82% of the square, generous enough transparent margin that nothing is cropped. Actual transparent background. No circle, no badge, no UI, no background panel, no captions, no text, no logos, no watermark. Crisp, easily recognizable silhouette at 130px. Do not add vehicle body, people, hands, decorative particles or unnecessary objects."
+  },
+  {
+    "part": "tire",
+    "path": "app/src/main/res/drawable-nodpi/consumable_tire.png",
+    "method": "built-in image_gen",
+    "subject": "one complete premium automotive black tire mounted on a graphite five-spoke alloy wheel, three-quarter front view, visible realistic tread and rim, no lettering or brand",
+    "art_direction": "Realistic studio product cutout; silver/charcoal/ivory; elevated three-quarter front angle; transparent background; no labels, logos, UI or circle. Used in native schedule rings.",
+    "prompt": "Use case: product-mockup. Asset type: individual 3D vehicle consumable cutout for a premium automotive interface, displayed in a circular status ring. Subject: one complete premium automotive black tire mounted on a graphite five-spoke alloy wheel, three-quarter front view, visible realistic tread and rim, no lettering or brand. Art direction: premium realistic studio product render, precise industrial materials, soft diffuse lighting from upper left, subtle contact shadow, restrained silver/charcoal/ivory palette, consistent camera at elevated three-quarter front angle. A single coherent arrangement centered on a square canvas, object fills 75-82% of the square, generous enough transparent margin that nothing is cropped. Actual transparent background. No circle, no badge, no UI, no background panel, no captions, no text, no logos, no watermark. Crisp, easily recognizable silhouette at 130px. Do not add vehicle body, people, hands, decorative particles or unnecessary objects."
+  },
+  {
+    "part": "hvac",
+    "path": "app/src/main/res/drawable-nodpi/consumable_hvac.png",
+    "method": "built-in image_gen",
+    "subject": "a compact automotive air-conditioning evaporator heat exchanger core with fine silver aluminum fins and two neatly bent aluminum refrigerant tubes, realistic car HVAC component",
+    "art_direction": "Realistic studio product cutout; silver/charcoal/ivory; elevated three-quarter front angle; transparent background; no labels, logos, UI or circle. Used in native schedule rings.",
+    "prompt": "Use case: product-mockup. Asset type: individual 3D vehicle consumable cutout for a premium automotive interface, displayed in a circular status ring. Subject: a compact automotive air-conditioning evaporator heat exchanger core with fine silver aluminum fins and two neatly bent aluminum refrigerant tubes, realistic car HVAC component. Art direction: premium realistic studio product render, precise industrial materials, soft diffuse lighting from upper left, subtle contact shadow, restrained silver/charcoal/ivory palette, consistent camera at elevated three-quarter front angle. A single coherent arrangement centered on a square canvas, object fills 75-82% of the square, generous enough transparent margin that nothing is cropped. Actual transparent background. No circle, no badge, no UI, no background panel, no captions, no text, no logos, no watermark. Crisp, easily recognizable silhouette at 130px. Do not add vehicle body, people, hands, decorative particles or unnecessary objects."
+  },
+  {
+    "part": "filter",
+    "path": "app/src/main/res/drawable-nodpi/consumable_filter.png",
+    "method": "built-in image_gen",
+    "subject": "a single rectangular pleated automotive cabin air filter at three-quarter angle, white ivory pleated paper, matte charcoal border frame, clearly visible individual folds",
+    "art_direction": "Realistic studio product cutout; silver/charcoal/ivory; elevated three-quarter front angle; transparent background; no labels, logos, UI or circle. Used in native schedule rings.",
+    "prompt": "Use case: product-mockup. Asset type: individual 3D vehicle consumable cutout for a premium automotive interface, displayed in a circular status ring. Subject: a single rectangular pleated automotive cabin air filter at three-quarter angle, white ivory pleated paper, matte charcoal border frame, clearly visible individual folds. Art direction: premium realistic studio product render, precise industrial materials, soft diffuse lighting from upper left, subtle contact shadow, restrained silver/charcoal/ivory palette, consistent camera at elevated three-quarter front angle. A single coherent arrangement centered on a square canvas, object fills 75-82% of the square, generous enough transparent margin that nothing is cropped. Actual transparent background. No circle, no badge, no UI, no background panel, no captions, no text, no logos, no watermark. Crisp, easily recognizable silhouette at 130px. Do not add vehicle body, people, hands, decorative particles or unnecessary objects."
+  }
+]

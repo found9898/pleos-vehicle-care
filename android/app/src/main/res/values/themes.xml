@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.VehicleCare" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#126768</item>
+        <item name="android:windowBackground">#F4F6F8</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+.DS_Store
+.idea/
+*.iml
+.dev/
+.claude/
+submission/
+research/sources/
+design-qa.md
+
+# Android build output and local settings
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+android/captures/
+*.apk
+# Submission APK required by the contest at apk/<팀명>_<앱이름>_release.apk
+!apk/*_release.apk
+*.aab
+*.keystore
+*.jks
+
+# Research: only the summaries; downloaded originals stay local (copyright, size)
+materials/*
+!materials/04_research/
+materials/04_research/*
+!materials/04_research/README.md
+!materials/04_research/*/
+materials/04_research/*/*
+!materials/04_research/*/README.md
+!materials/04_research/*/model-inputs.md
+materials/04_research/originals/
+!materials/07_model_specs/
+materials/07_model_specs/*
+!materials/07_model_specs/specs.json

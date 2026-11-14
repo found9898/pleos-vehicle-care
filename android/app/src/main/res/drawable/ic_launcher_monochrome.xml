@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed-icon variant: only alpha survives, so the orange end becomes a gap that sets it apart from the used arc. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M54,30 A24,24 0 1,1 54,78 A24,24 0 1,1 54,30"
+        android:strokeColor="#4D000000" android:strokeWidth="8" android:fillColor="#00000000" />
+    <path android:pathData="M54,30 A24,24 0 1,1 40.23,73.66"
+        android:strokeColor="#FF000000" android:strokeWidth="8" android:fillColor="#00000000" />
+    <path android:pathData="M36.5,33.22 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0"
+        android:fillColor="#FF000000" />
+</vector>

@@ -1,0 +1,1477 @@
+[
+  {
+    "model": "Tucson",
+    "modelKo": "투싼",
+    "code": "NX4",
+    "manualCode": "NX4",
+    "year": 2026,
+    "powertrain": "gasoline 1.6 turbo",
+    "engine": "Smartstream G1.6 T-GDI",
+    "fuel": "gasoline",
+    "body": "suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 SUV",
+    "dims": {
+      "length": 4640,
+      "width": 1865,
+      "height": 1665,
+      "wheelbase": 2755
+    },
+    "dimsNote": "전장 4,650mm는 N Line",
+    "intervals": {
+      "engineOil": {
+        "km": 10000,
+        "months": 12,
+        "severeKm": 5000,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "235/65 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.0J x 17, 240kPa(35psi)"
+      },
+      {
+        "size": "235/60 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18, 240kPa(35psi)"
+      },
+      {
+        "size": "235/55 R19",
+        "wheelInch": 19,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 19, 240kPa(35psi)"
+      }
+    ],
+    "tirePressureNote": "설명서 표: 전 사이즈 앞·뒤 240kPa(35psi). 실차 기준은 운전석 센터필러 라벨",
+    "wipers": {
+      "driverMm": 650,
+      "passengerMm": 400,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "투싼NX4",
+      "confidence": "medium",
+      "note": "투싼 NX4 전 파워트레인 공통 항목. 후면 와이퍼는 설명서에 존재하나 길이 미확인"
+    },
+    "engineOil": {
+      "capacityL": 4.8,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "SAE 0W-20, API SN PLUS/SP 또는 ILSAC GF-6 (API SN PLUS 이상 Full Synthetic 권장)"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/NX4/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/NX4/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/NX4/2026/ko_KR/vehicle_information_dimensions.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/NX4/2026/ko_KR/vehicle_information_tires_and_wheels.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/NX4/2026/ko_KR/id7e36eeada00.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "정기점검표의 공조 장치용 에어필터는 \"매 12개월마다 점검\"으로 표기되나, 같은 설명서 공조/정비 장(공조 장치용 에어필터)에는 \"12개월마다 교체\"로 표기됨",
+      "DCT 오일: 통상 매 60,000km 또는 48개월 점검, 가혹 매 120,000km 교체",
+      "2027년형 투싼은 신형 NX5로 별도 설명서(NX5/2027). 본 레코드는 NX4 2026"
+    ]
+  },
+  {
+    "model": "Tucson",
+    "modelKo": "투싼",
+    "code": "NX4",
+    "manualCode": "NX4HEV",
+    "year": 2026,
+    "powertrain": "hybrid 1.6 turbo",
+    "engine": "Smartstream G1.6 T-GDi HEV",
+    "fuel": "hybrid",
+    "body": "suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 SUV",
+    "dims": {
+      "length": 4640,
+      "width": 1865,
+      "height": 1665,
+      "wheelbase": 2755
+    },
+    "dimsNote": "전장 4,650mm는 N Line",
+    "intervals": {
+      "engineOil": {
+        "km": 10000,
+        "months": 12,
+        "severeKm": 5000,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "235/65 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.0J x 17, 240kPa(35psi)"
+      },
+      {
+        "size": "235/60 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18, 240kPa(35psi)"
+      },
+      {
+        "size": "235/55 R19",
+        "wheelInch": 19,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 19, 240kPa(35psi)"
+      }
+    ],
+    "tirePressureNote": "설명서 표: 전 사이즈 앞·뒤 240kPa(35psi). 실차 기준은 운전석 센터필러 라벨",
+    "wipers": {
+      "driverMm": 650,
+      "passengerMm": 400,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "투싼NX4",
+      "confidence": "medium",
+      "note": "투싼 NX4 전 파워트레인 공통 항목. 후면 와이퍼는 설명서에 존재하나 길이 미확인"
+    },
+    "engineOil": {
+      "capacityL": 4.8,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "SAE 0W-20, API SN PLUS/SP 또는 ILSAC GF-6 (API SN PLUS 이상 Full Synthetic 권장)"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/NX4HEV/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/NX4HEV/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/NX4HEV/2026/ko_KR/vehicle_information_dimensions.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/NX4HEV/2026/ko_KR/vehicle_information_tires_and_wheels.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/NX4HEV/2026/ko_KR/vehicle_information_recommended_lubricants.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "정기점검표 표기: 공조 장치용 에어필터 (글로브박스) 매 12개월마다 교체",
+      "HSG 구동벨트: 매 10,000km/12개월 점검, 매 100,000km/48개월 교환 (가혹 45,000km/24개월)",
+      "2027년형 투싼은 신형 NX5로 별도 설명서(NX5/2027). 본 레코드는 NX4 2026"
+    ]
+  },
+  {
+    "model": "Avante",
+    "modelKo": "아반떼",
+    "code": "CN7",
+    "manualCode": "CN7",
+    "year": 2026,
+    "powertrain": "gasoline 1.6",
+    "engine": "Smartstream G1.6",
+    "fuel": "gasoline",
+    "body": "sedan",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 승용(CARS)",
+    "dims": {
+      "length": 4710,
+      "width": 1825,
+      "height": 1420,
+      "wheelbase": 2720
+    },
+    "dimsNote": null,
+    "intervals": {
+      "engineOil": {
+        "km": 15000,
+        "months": 12,
+        "severeKm": 7500,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "195/65 R15",
+        "wheelInch": 15,
+        "pressureFrontKpa": 235,
+        "pressureRearKpa": 215,
+        "note": "6.0J x 15, 앞 235kPa(34psi)/뒤 215kPa(31psi)"
+      },
+      {
+        "size": "205/55 R16",
+        "wheelInch": 16,
+        "pressureFrontKpa": 235,
+        "pressureRearKpa": 215,
+        "note": "6.5J x 16, 앞 235(34)/뒤 215(31)"
+      },
+      {
+        "size": "225/45 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 235,
+        "pressureRearKpa": 215,
+        "note": "7.0J x 17, 앞 235(34)/뒤 215(31)"
+      },
+      {
+        "size": "235/40 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 230,
+        "pressureRearKpa": 230,
+        "note": "8.0J x 18, N Line, 230kPa(33psi)"
+      }
+    ],
+    "tirePressureNote": "PDF 표의 병합 셀(15~17인치 공통 235/215kPa)을 렌더링 이미지로 확인",
+    "wipers": {
+      "driverMm": 600,
+      "passengerMm": 450,
+      "rearMm": null,
+      "hasRearWiper": false,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "아반떼CN7",
+      "confidence": "medium",
+      "note": "후면 와이퍼: 설명서에 언급 없음(세단)"
+    },
+    "engineOil": {
+      "capacityL": 3.8,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "SAE 0W-20, API SN PLUS/SP 또는 ILSAC GF-6"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_pdf/CN7/2026/ko_KR (PDF p.390, 393-394 / 설명서 9-8, 9-11~9-12)",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_pdf/CN7/2026/ko_KR (PDF p.395 / 9-13)",
+      "dims": "https://ownersmanual.hyundai.com/full_pdf/CN7/2026/ko_KR (PDF p.19 / 1-13)",
+      "tires": "https://ownersmanual.hyundai.com/full_pdf/CN7/2026/ko_KR (PDF p.19 / 1-13)",
+      "oil": "https://ownersmanual.hyundai.com/full_pdf/CN7/2026/ko_KR (PDF p.22 / 1-16)",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "아반떼 CN7 2026은 웹 설명서 없이 PDF만 제공됨",
+      "같은 설명서에 1.6 LPI(3.6L, SAE 5W-20 API Latest) 포함, 본 레코드는 가솔린만",
+      "2027년형 아반떼는 신형 CN8로 별도 설명서"
+    ]
+  },
+  {
+    "model": "Avante Hybrid",
+    "modelKo": "아반떼 하이브리드",
+    "code": "CN7",
+    "manualCode": "CN7HEV",
+    "year": 2026,
+    "powertrain": "hybrid 1.6",
+    "engine": "1.6 GDI HEV",
+    "fuel": "hybrid",
+    "body": "sedan",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 승용(CARS)",
+    "dims": {
+      "length": 4710,
+      "width": 1825,
+      "height": 1420,
+      "wheelbase": 2720
+    },
+    "dimsNote": null,
+    "intervals": {
+      "engineOil": {
+        "km": 15000,
+        "months": 12,
+        "severeKm": 7500,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크, 캘리퍼)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "205/55 R16",
+        "wheelInch": 16,
+        "pressureFrontKpa": 230,
+        "pressureRearKpa": 230,
+        "note": "6.5J x 16, 230kPa(33psi)"
+      },
+      {
+        "size": "225/45 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 230,
+        "pressureRearKpa": 220,
+        "note": "7.0J x 17, 앞 230(33)/뒤 220(32)"
+      },
+      {
+        "size": "235/40 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 230,
+        "pressureRearKpa": 230,
+        "note": "8.0J x 18, N Line, 230(33)"
+      }
+    ],
+    "tirePressureNote": null,
+    "wipers": {
+      "driverMm": 600,
+      "passengerMm": 450,
+      "rearMm": null,
+      "hasRearWiper": false,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "아반떼CN7",
+      "confidence": "medium",
+      "note": "후면 와이퍼: 설명서에 언급 없음(세단)"
+    },
+    "engineOil": {
+      "capacityL": 3.8,
+      "capacityNote": "설명서 표에 \"(오일필터포함)\" 명시",
+      "grade": "0W-20 API SN PLUS"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_pdf/CN7HEV/2026/ko_KR (PDF p.396-398 / 9-8~9-10)",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_pdf/CN7HEV/2026/ko_KR (PDF p.399 / 9-11)",
+      "dims": "https://ownersmanual.hyundai.com/full_pdf/CN7HEV/2026/ko_KR (PDF p.35 / 1-13)",
+      "tires": "https://ownersmanual.hyundai.com/full_pdf/CN7HEV/2026/ko_KR (PDF p.35 / 1-13)",
+      "oil": "https://ownersmanual.hyundai.com/full_pdf/CN7HEV/2026/ko_KR (PDF p.38 / 1-16)",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "엔진 클러치 액추에이터 작동유: 매 30,000km/24개월 교체, 매 15,000km/12개월 점검",
+      "HSG 구동벨트: 매 105,000km/48개월 교체 (가혹 45,000km/24개월)",
+      "DCT 오일 통상 무점검·무교환, 가혹 매 120,000km 교체"
+    ]
+  },
+  {
+    "model": "Sonata",
+    "modelKo": "쏘나타 디 엣지",
+    "code": "DN8",
+    "manualCode": "DN8",
+    "year": 2026,
+    "body": "sedan",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 승용(CARS)",
+    "dims": {
+      "length": 4910,
+      "width": 1860,
+      "height": 1445,
+      "wheelbase": 2840
+    },
+    "dimsNote": null,
+    "powertrain": "gasoline 2.0",
+    "engine": "Smartstream G2.0 CVVL",
+    "fuel": "gasoline",
+    "intervals": {
+      "engineOil": {
+        "km": 15000,
+        "months": 12,
+        "severeKm": 7500,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "205/65 R16",
+        "wheelInch": 16,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "6.5J x 16"
+      },
+      {
+        "size": "215/55 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.0J x 17"
+      },
+      {
+        "size": "235/45 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18"
+      },
+      {
+        "size": "245/40 R19",
+        "wheelInch": 19,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "8.0J x 19"
+      }
+    ],
+    "tirePressureNote": "설명서 표: 전 사이즈 240kPa(35psi). 엔진/트림별 장착 사이즈 매핑은 설명서에 없음",
+    "wipers": {
+      "driverMm": 650,
+      "passengerMm": 450,
+      "rearMm": null,
+      "hasRearWiper": false,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "소나타DN8",
+      "confidence": "medium",
+      "note": "후면 와이퍼: 설명서에 언급 없음(세단)"
+    },
+    "engineOil": {
+      "capacityL": 4.3,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "API SN PLUS/SP 또는 ILSAC GF-6, SAE 0W-20 (점도는 SAE 점도 분류표 이미지 기준)"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id6db2d9a179c.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/idfbf2c9f9b43.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id7e36eeada00.html",
+      "oilViscosity": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id9347f625952.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "같은 설명서에 Smartstream G2.5 T-GDI(5.8L, 0W-30, 10,000km/12개월) 포함, 본 데이터에서 제외"
+    ]
+  },
+  {
+    "model": "Sonata",
+    "modelKo": "쏘나타 디 엣지",
+    "code": "DN8",
+    "manualCode": "DN8",
+    "year": 2026,
+    "body": "sedan",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 승용(CARS)",
+    "dims": {
+      "length": 4910,
+      "width": 1860,
+      "height": 1445,
+      "wheelbase": 2840
+    },
+    "dimsNote": null,
+    "powertrain": "gasoline 1.6 turbo",
+    "engine": "Smartstream G1.6 T-GDI",
+    "fuel": "gasoline",
+    "intervals": {
+      "engineOil": {
+        "km": 10000,
+        "months": 12,
+        "severeKm": 5000,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "205/65 R16",
+        "wheelInch": 16,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "6.5J x 16"
+      },
+      {
+        "size": "215/55 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.0J x 17"
+      },
+      {
+        "size": "235/45 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18"
+      },
+      {
+        "size": "245/40 R19",
+        "wheelInch": 19,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "8.0J x 19"
+      }
+    ],
+    "tirePressureNote": "설명서 표: 전 사이즈 240kPa(35psi). 엔진/트림별 장착 사이즈 매핑은 설명서에 없음",
+    "wipers": {
+      "driverMm": 650,
+      "passengerMm": 450,
+      "rearMm": null,
+      "hasRearWiper": false,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "소나타DN8",
+      "confidence": "medium",
+      "note": "후면 와이퍼: 설명서에 언급 없음(세단)"
+    },
+    "engineOil": {
+      "capacityL": 4.8,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "API SN PLUS/SP 또는 ILSAC GF-6, SAE 0W-20 (점도는 SAE 점도 분류표 이미지 기준)"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id6db2d9a179c.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/idfbf2c9f9b43.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id7e36eeada00.html",
+      "oilViscosity": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id9347f625952.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "같은 설명서에 Smartstream G2.5 T-GDI(5.8L, 0W-30, 10,000km/12개월) 포함, 본 데이터에서 제외"
+    ]
+  },
+  {
+    "model": "Sonata",
+    "modelKo": "쏘나타 디 엣지",
+    "code": "DN8",
+    "manualCode": "DN8",
+    "year": 2026,
+    "body": "sedan",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 승용(CARS)",
+    "dims": {
+      "length": 4910,
+      "width": 1860,
+      "height": 1445,
+      "wheelbase": 2840
+    },
+    "dimsNote": null,
+    "powertrain": "lpg 2.0",
+    "engine": "Smartstream L2.0",
+    "fuel": "lpg",
+    "intervals": {
+      "engineOil": {
+        "km": 15000,
+        "months": 12,
+        "severeKm": 7500,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "205/65 R16",
+        "wheelInch": 16,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "6.5J x 16"
+      },
+      {
+        "size": "215/55 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.0J x 17"
+      },
+      {
+        "size": "235/45 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18"
+      },
+      {
+        "size": "245/40 R19",
+        "wheelInch": 19,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "8.0J x 19"
+      }
+    ],
+    "tirePressureNote": "설명서 표: 전 사이즈 240kPa(35psi). 엔진/트림별 장착 사이즈 매핑은 설명서에 없음",
+    "wipers": {
+      "driverMm": 650,
+      "passengerMm": 450,
+      "rearMm": null,
+      "hasRearWiper": false,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "소나타DN8",
+      "confidence": "medium",
+      "note": "후면 와이퍼: 설명서에 언급 없음(세단)"
+    },
+    "engineOil": {
+      "capacityL": 4.3,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "API SN PLUS/SP 또는 ILSAC GF-6, SAE 0W-20 (점도는 SAE 점도 분류표 이미지 기준)"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id6db2d9a179c.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/idfbf2c9f9b43.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id7e36eeada00.html",
+      "oilViscosity": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2026/ko_KR/id9347f625952.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "같은 설명서에 Smartstream G2.5 T-GDI(5.8L, 0W-30, 10,000km/12개월) 포함, 본 데이터에서 제외",
+      "LPG: LPI 연료계 누출 점검 등 LPG 전용 항목 별도"
+    ]
+  },
+  {
+    "model": "Sonata Hybrid",
+    "modelKo": "쏘나타 디 엣지 하이브리드",
+    "code": "DN8",
+    "manualCode": "DN8HEV",
+    "year": 2026,
+    "body": "sedan",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 승용(CARS)",
+    "dims": {
+      "length": 4910,
+      "width": 1860,
+      "height": 1445,
+      "wheelbase": 2840
+    },
+    "dimsNote": null,
+    "powertrain": "hybrid 2.0",
+    "engine": "Smartstream G2.0 GDI HEV",
+    "fuel": "hybrid",
+    "intervals": {
+      "engineOil": {
+        "km": 15000,
+        "months": 12,
+        "severeKm": 7500,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "205/65 R16",
+        "wheelInch": 16,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "6.5J x 16"
+      },
+      {
+        "size": "215/55 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.0J x 17"
+      },
+      {
+        "size": "235/45 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18"
+      }
+    ],
+    "tirePressureNote": "설명서 표: 전 사이즈 240kPa(35psi)",
+    "wipers": {
+      "driverMm": 650,
+      "passengerMm": 450,
+      "rearMm": null,
+      "hasRearWiper": false,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "소나타DN8",
+      "confidence": "medium",
+      "note": "후면 와이퍼: 설명서에 언급 없음(세단)"
+    },
+    "engineOil": {
+      "capacityL": 4.3,
+      "capacityNote": "설명서 표에 \"(오일 필터 포함)\" 명시",
+      "grade": "API SN PLUS/SP 또는 ILSAC GF-6, SAE 0W-16 (점도는 SAE 점도 분류표 이미지 기준)"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/DN8HEV/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/DN8HEV/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/DN8HEV/2026/ko_KR/id6db2d9a179c.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/DN8HEV/2026/ko_KR/idfbf2c9f9b43.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/DN8HEV/2026/ko_KR/id7e36eeada00.html",
+      "oilViscosity": "https://ownersmanual.hyundai.com/full_webhelp/DN8HEV/2026/ko_KR/id9347f625952.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "HSG 구동벨트: 매 15,000km/12개월 점검, 매 105,000km/48개월 교체 (가혹 5,000km/6개월 점검, 50,000km/24개월 교체)",
+      "하이브리드는 2.0 GDI HEV (요청서의 1.6이 아님)"
+    ]
+  },
+  {
+    "model": "Santa Fe",
+    "modelKo": "싼타페",
+    "code": "MX5",
+    "manualCode": "MX5",
+    "year": 2026,
+    "powertrain": "gasoline 2.5 turbo",
+    "engine": "Smartstream G2.5 T-GDI",
+    "fuel": "gasoline",
+    "body": "suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 SUV",
+    "dims": {
+      "length": 4830,
+      "width": 1900,
+      "height": 1720,
+      "wheelbase": 2815
+    },
+    "dimsNote": "전고 1,720(루프)/1,730mm는 캘리그래피, 루프랙 1,770/1,780mm",
+    "intervals": {
+      "engineOil": {
+        "km": 10000,
+        "months": 12,
+        "severeKm": 5000,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "235/60 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18"
+      },
+      {
+        "size": "255/45 R20",
+        "wheelInch": 20,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "8.5J x 20"
+      },
+      {
+        "size": "245/45 R21",
+        "wheelInch": 21,
+        "pressureFrontKpa": 250,
+        "pressureRearKpa": 250,
+        "note": "8.5J x 21, 250kPa(36psi)"
+      }
+    ],
+    "tirePressureNote": null,
+    "wipers": {
+      "driverMm": null,
+      "passengerMm": null,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": null,
+      "sourceUrl": null,
+      "chartLabel": null,
+      "confidence": null,
+      "note": "현대모비스 적용표에 MX5 항목 없음(싼타페TM까지만). 공식 길이 미확인"
+    },
+    "engineOil": {
+      "capacityL": 5.8,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "SAE 0W-30, API SN PLUS/SP 또는 ILSAC GF-6"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/MX5/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/MX5/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/MX5/2026/ko_KR/id6db2d9a179c.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/MX5/2026/ko_KR/id235QD0C045Z.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/MX5/2026/ko_KR/id3a554ad79dd.html"
+    },
+    "notes": [
+      "DCT 오일 통상 무점검·무교체, 가혹 매 100,000km 교체"
+    ]
+  },
+  {
+    "model": "Santa Fe Hybrid",
+    "modelKo": "싼타페 하이브리드",
+    "code": "MX5",
+    "manualCode": "MX5HEV",
+    "year": 2026,
+    "powertrain": "hybrid 1.6 turbo",
+    "engine": "1.6 T-GDi HEV",
+    "fuel": "hybrid",
+    "body": "suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 SUV",
+    "dims": {
+      "length": 4830,
+      "width": 1900,
+      "height": 1720,
+      "wheelbase": 2815
+    },
+    "dimsNote": "전고 1,720mm(루프), 루프랙 1,770mm",
+    "intervals": {
+      "engineOil": {
+        "km": 10000,
+        "months": 12,
+        "severeKm": 5000,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "235/60 R18",
+        "wheelInch": 18,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "7.5J x 18"
+      },
+      {
+        "size": "255/45 R20",
+        "wheelInch": 20,
+        "pressureFrontKpa": 240,
+        "pressureRearKpa": 240,
+        "note": "8.5J x 20"
+      }
+    ],
+    "tirePressureNote": null,
+    "wipers": {
+      "driverMm": null,
+      "passengerMm": null,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": null,
+      "sourceUrl": null,
+      "chartLabel": null,
+      "confidence": null,
+      "note": "현대모비스 적용표에 MX5 항목 없음(싼타페TM까지만). 공식 길이 미확인"
+    },
+    "engineOil": {
+      "capacityL": 4.8,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "SAE 0W-20, API SN PLUS/SP 또는 ILSAC GF-6"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/MX5HEV/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/MX5HEV/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/MX5HEV/2026/ko_KR/id6db2d9a179c.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/MX5HEV/2026/ko_KR/id235QD0C045Z.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/MX5HEV/2026/ko_KR/id3a554ad79dd.html"
+    },
+    "notes": [
+      "HSG 구동벨트: 매 10,000km/12개월 점검, 매 100,000km/48개월 교체 (가혹 5,000km/6개월 점검, 50,000km/24개월 교체)"
+    ]
+  },
+  {
+    "model": "IONIQ 5",
+    "modelKo": "아이오닉 5",
+    "code": "NE",
+    "manualCode": "NE1",
+    "year": 2026,
+    "powertrain": "electric",
+    "engine": null,
+    "fuel": "electric",
+    "body": "suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 수소/전기차(ECO). 차체형상은 설명서에 없음 — SUV/CUV 실루엣은 앱 판단",
+    "dims": {
+      "length": 4655,
+      "width": 1890,
+      "height": 1605,
+      "wheelbase": 3000
+    },
+    "dimsNote": null,
+    "intervals": {
+      "engineOil": null,
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드/디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "235/55 R19",
+        "wheelInch": 19,
+        "pressureFrontKpa": 250,
+        "pressureRearKpa": 250,
+        "note": "7.5J x 19, 250kPa(36psi)"
+      },
+      {
+        "size": "255/45 R20",
+        "wheelInch": 20,
+        "pressureFrontKpa": 235,
+        "pressureRearKpa": 235,
+        "note": "8.5J x 20, 235kPa(34psi)"
+      }
+    ],
+    "tirePressureNote": null,
+    "wipers": {
+      "driverMm": 650,
+      "passengerMm": 450,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "아이오닉/5/6",
+      "confidence": "low",
+      "note": "적용표가 아이오닉·아이오닉5·아이오닉6을 한 줄로 묶어 표기. 후면 와이퍼 존재(설명서), 길이 미확인"
+    },
+    "engineOil": null,
+    "evItems": {
+      "reducerOil": {
+        "inspectKm": 60000,
+        "severeReplaceKm": 120000,
+        "capacityL": "2WD 후륜 약 3.4-3.5 / 4WD 전륜 약 3.2-3.3, 후륜 약 3.4-3.5",
+        "spec": "HK ATF 6S SP4M-1"
+      },
+      "coolant": {
+        "firstReplaceKm": 200000,
+        "firstReplaceYears": 10,
+        "thenKm": 40000,
+        "thenYears": 2
+      },
+      "battery12V": {
+        "inspectKm": 12000,
+        "months": 12
+      },
+      "brakeFluidReplaceKm": 50000,
+      "evSafetyCheckMonths": 12
+    },
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/NE1/2026/ko_KR/topic_gkm_cpv_k1c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/NE1/2026/ko_KR/topic_gkm_cpv_k1c.html (같은 페이지 하단)",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/NE1/2026/ko_KR/topic_nqq_ssn_rzb.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/NE1/2026/ko_KR/id23C3J0803HT.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/NE1/2026/ko_KR/id23C3J0H0ZRO.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "엔진오일 없음(전기차)",
+      "2027년형(NE1/2027) 정기점검·제원·타이어·용량 페이지 텍스트는 2026년형과 동일함을 확인"
+    ]
+  },
+  {
+    "model": "Casper",
+    "modelKo": "캐스퍼",
+    "code": "AX1",
+    "manualCode": "AX",
+    "year": 2026,
+    "powertrain": "gasoline 1.0",
+    "engine": "Smartstream G1.0",
+    "fuel": "gasoline",
+    "body": "compact-suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 SUV. 경차 여부는 공식 문서로 미확인",
+    "dims": {
+      "length": 3595,
+      "width": 1595,
+      "height": 1575,
+      "wheelbase": 2400
+    },
+    "dimsNote": "설명서 원문 전장 \"3.595 mm\"는 오타로 보이며 3,595mm로 기록. 전고 1,605mm는 루프랙 적용 시",
+    "intervals": {
+      "engineOil": {
+        "km": 15000,
+        "months": 12,
+        "severeKm": 7500,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 20000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크). 브레이크 드럼 및 라이닝은 10,000km"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "185/65 R15",
+        "wheelInch": 15,
+        "pressureFrontKpa": 230,
+        "pressureRearKpa": 230,
+        "note": "5.5J x 15. 하중조건2(아이콘 표기, 승원/적재 많음 추정): 앞 230/뒤 250",
+        "loadedFrontKpa": 230,
+        "loadedRearKpa": 250
+      },
+      {
+        "size": "205/45 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 210,
+        "pressureRearKpa": 210,
+        "note": "6.5J x 17. 하중조건2: 앞 230/뒤 250",
+        "loadedFrontKpa": 230,
+        "loadedRearKpa": 250
+      }
+    ],
+    "tirePressureNote": "표 머리글이 기호 폰트(아이콘)라 두 하중 조건의 정확한 명칭은 텍스트로 확인 불가. 실차 기준은 센터필러 라벨",
+    "wipers": {
+      "driverMm": 550,
+      "passengerMm": 400,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "캐스퍼",
+      "confidence": "low",
+      "note": "현대모비스 적용표의 \"기아자동차\" 칸에 \"캐스퍼\"로 기재되어 있어 신뢰도 낮음. 후면 와이퍼 존재(설명서), 길이 미확인"
+    },
+    "engineOil": {
+      "capacityL": 3.1,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "SAE 0W-20, API SN PLUS/SP 또는 ILSAC GF-6"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/topic_nqq_ssn_rzb.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/id23C3J0803HT.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/vehicle_information_recommended_lubricants.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "공조/정비 장의 \"공조 장치용 에어필터 교체 주기\" 페이지에는 \"매 15,000 km 주행할 때마다 교체\"로 표기되어 정기점검표(매 12개월 교체)와 다름",
+      "2027년형(AX/2027) 텍스트는 2026년형과 동일"
+    ]
+  },
+  {
+    "model": "Casper",
+    "modelKo": "캐스퍼",
+    "code": "AX1",
+    "manualCode": "AX",
+    "year": 2026,
+    "powertrain": "gasoline 1.0 turbo",
+    "engine": "1.0 T-GDI",
+    "fuel": "gasoline",
+    "body": "compact-suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 SUV. 경차 여부는 공식 문서로 미확인",
+    "dims": {
+      "length": 3595,
+      "width": 1595,
+      "height": 1575,
+      "wheelbase": 2400
+    },
+    "dimsNote": "설명서 원문 전장 \"3.595 mm\"는 오타로 보이며 3,595mm로 기록. 전고 1,605mm는 루프랙 적용 시",
+    "intervals": {
+      "engineOil": {
+        "km": 10000,
+        "months": 12,
+        "severeKm": 5000,
+        "severeMonths": 6,
+        "action": "교체"
+      },
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 20000,
+        "months": null,
+        "action": "점검 (브레이크 패드 및 디스크). 브레이크 드럼 및 라이닝은 10,000km"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "185/65 R15",
+        "wheelInch": 15,
+        "pressureFrontKpa": 230,
+        "pressureRearKpa": 230,
+        "note": "5.5J x 15. 하중조건2(아이콘 표기, 승원/적재 많음 추정): 앞 230/뒤 250",
+        "loadedFrontKpa": 230,
+        "loadedRearKpa": 250
+      },
+      {
+        "size": "205/45 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 210,
+        "pressureRearKpa": 210,
+        "note": "6.5J x 17. 하중조건2: 앞 230/뒤 250",
+        "loadedFrontKpa": 230,
+        "loadedRearKpa": 250
+      }
+    ],
+    "tirePressureNote": "표 머리글이 기호 폰트(아이콘)라 두 하중 조건의 정확한 명칭은 텍스트로 확인 불가. 실차 기준은 센터필러 라벨",
+    "wipers": {
+      "driverMm": 550,
+      "passengerMm": 400,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": "현대모비스 멀티 프로 하이브리드 와이퍼(애프터마켓) 차종 적용표 이미지, 코스트코코리아 상품 페이지 — 현대차 순정 품번 카탈로그 아님",
+      "sourceUrl": "https://www.costco.co.kr/mediapermalink/684994-desc_1",
+      "chartLabel": "캐스퍼",
+      "confidence": "low",
+      "note": "현대모비스 적용표의 \"기아자동차\" 칸에 \"캐스퍼\"로 기재되어 있어 신뢰도 낮음. 후면 와이퍼 존재(설명서), 길이 미확인"
+    },
+    "engineOil": {
+      "capacityL": 3.6,
+      "capacityNote": "일반적인 오일 교체 시 주입 용량 기준(설명서 각주). 필터 포함 여부 명시 없음",
+      "grade": "SAE 0W-30, API SN PLUS"
+    },
+    "evItems": null,
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/id6b219dd157c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/id7b77f1c5ffe.html",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/topic_nqq_ssn_rzb.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/id23C3J0803HT.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/AX/2026/ko_KR/vehicle_information_recommended_lubricants.html",
+      "wipers": "https://www.costco.co.kr/mediapermalink/684994-desc_1"
+    },
+    "notes": [
+      "공조/정비 장의 \"공조 장치용 에어필터 교체 주기\" 페이지에는 \"매 15,000 km 주행할 때마다 교체\"로 표기되어 정기점검표(매 12개월 교체)와 다름",
+      "2027년형(AX/2027) 텍스트는 2026년형과 동일",
+      "1.0 T-GDI 점화플러그 매 75,000km 교체, 밸브 간극 매 90,000km/72개월 점검"
+    ]
+  },
+  {
+    "model": "Casper Electric",
+    "modelKo": "캐스퍼 일렉트릭",
+    "code": "AX1 EV",
+    "manualCode": "AXEV",
+    "year": 2026,
+    "powertrain": "electric",
+    "engine": null,
+    "fuel": "electric",
+    "body": "compact-suv",
+    "bodySource": "ownersmanual.hyundai.com 모델 분류 수소/전기차(ECO)",
+    "dims": {
+      "length": 3825,
+      "width": 1610,
+      "height": 1575,
+      "wheelbase": 2580
+    },
+    "dimsNote": "기본형 기준. 라운지 동일, 크로스 전장 3,845mm. 전고 1,610mm 루프랙, 크로스 1,715mm 루프바스켓",
+    "dimsVariants": {
+      "기본형": {
+        "length": 3825,
+        "width": 1610,
+        "height": 1575,
+        "wheelbase": 2580
+      },
+      "라운지": {
+        "length": 3825,
+        "width": 1610,
+        "height": 1575,
+        "wheelbase": 2580
+      },
+      "크로스": {
+        "length": 3845,
+        "width": 1610,
+        "height": 1575,
+        "wheelbase": 2580
+      }
+    },
+    "intervals": {
+      "engineOil": null,
+      "cabinFilter": {
+        "km": null,
+        "months": 12,
+        "action": "교체"
+      },
+      "brakeInspect": {
+        "km": 10000,
+        "months": null,
+        "action": "점검 (브레이크 패드/디스크)"
+      },
+      "tireRotation": {
+        "km": 10000,
+        "months": null,
+        "action": "교체(위치 교환)"
+      },
+      "acInspect": {
+        "km": null,
+        "months": 12,
+        "action": "점검"
+      },
+      "wiper": null
+    },
+    "tires": [
+      {
+        "size": "185/65 R15",
+        "wheelInch": 15,
+        "pressureFrontKpa": 250,
+        "pressureRearKpa": 250,
+        "note": "5.5J x 15. 하중조건2: 앞 250/뒤 260",
+        "loadedFrontKpa": 250,
+        "loadedRearKpa": 260
+      },
+      {
+        "size": "205/45 R17",
+        "wheelInch": 17,
+        "pressureFrontKpa": 250,
+        "pressureRearKpa": 235,
+        "note": "6.5J x 17. 하중조건2: 앞 250(크로스 260)/뒤 260",
+        "loadedFrontKpa": 250,
+        "loadedRearKpa": 260,
+        "crossLoadedFrontKpa": 260
+      }
+    ],
+    "tirePressureNote": "표 머리글이 기호 폰트(아이콘)라 두 하중 조건의 명칭은 텍스트로 확인 불가",
+    "wipers": {
+      "driverMm": null,
+      "passengerMm": null,
+      "rearMm": null,
+      "hasRearWiper": true,
+      "source": null,
+      "sourceUrl": null,
+      "chartLabel": null,
+      "confidence": null,
+      "note": "적용표에 캐스퍼 일렉트릭 항목 없음. 후면 와이퍼 존재(설명서), 길이 미확인"
+    },
+    "engineOil": null,
+    "evItems": {
+      "shiftDialOil": {
+        "name": "전자식 변속 다이얼 오일(감속기 계통)",
+        "inspectKm": 60000,
+        "severeReplaceKm": 120000,
+        "capacityL": "0.75 ± 0.03",
+        "spec": "HK ATF 6S SP4M-1"
+      },
+      "coolant": {
+        "firstReplaceKm": 200000,
+        "firstReplaceYears": 10,
+        "thenKm": 40000,
+        "thenYears": 2
+      },
+      "battery12V": {
+        "inspectKm": 10000,
+        "months": 12
+      },
+      "brakeFluidReplaceKm": 50000,
+      "evSafetyCheckMonths": 12
+    },
+    "sources": {
+      "schedule": "https://ownersmanual.hyundai.com/full_webhelp/AXEV/2026/ko_KR/topic_gkm_cpv_k1c.html",
+      "scheduleSevere": "https://ownersmanual.hyundai.com/full_webhelp/AXEV/2026/ko_KR/topic_gkm_cpv_k1c.html (같은 페이지 하단)",
+      "dims": "https://ownersmanual.hyundai.com/full_webhelp/AXEV/2026/ko_KR/topic_nqq_ssn_rzb.html",
+      "tires": "https://ownersmanual.hyundai.com/full_webhelp/AXEV/2026/ko_KR/id23C3J0803HT.html",
+      "oil": "https://ownersmanual.hyundai.com/full_webhelp/AXEV/2026/ko_KR/id23C3J0H0ZRO.html"
+    },
+    "notes": [
+      "엔진오일 없음(전기차)",
+      "2027년형(AXEV/2027) 텍스트는 2026년형과 동일"
+    ]
+  }
+]

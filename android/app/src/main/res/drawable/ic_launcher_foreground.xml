@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 미리정비 mark: the white arc is time already used, the orange end is the replacement point the vehicle signals pulled
+     forward, and the white dot is where the manual's own interval would have put it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M54,30 A24,24 0 1,1 54,78 A24,24 0 1,1 54,30"
+        android:strokeColor="#29FFFFFF" android:strokeWidth="8" android:fillColor="#00000000" />
+    <path android:pathData="M54,30 A24,24 0 1,1 40.23,73.66"
+        android:strokeColor="#FFFFFFFF" android:strokeWidth="8" android:fillColor="#00000000" />
+    <path android:pathData="M40.23,73.66 A24,24 0 0,1 30.82,47.79"
+        android:strokeColor="#FFFF8A00" android:strokeWidth="8" android:fillColor="#00000000" />
+    <path android:pathData="M36.5,33.22 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0"
+        android:fillColor="#FFFFFFFF" android:strokeColor="#FF1D1E21" android:strokeWidth="2.5" />
+</vector>
